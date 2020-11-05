@@ -1,0 +1,9 @@
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\bin\Debug\netcoreapp3.1\Chelovek.deps.json
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\bin\Debug\netcoreapp3.1\Chelovek.dll
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\bin\Debug\netcoreapp3.1\Chelovek.pdb
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.csprojAssemblyReference.cache
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.AssemblyInfoInputs.cache
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.AssemblyInfo.cs
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.csproj.CoreCompileInputs.cache
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.dll
+C:\Users\Nekokitty\source\repos\Chelovek\Chelovek\obj\Debug\netcoreapp3.1\Chelovek.pdb
